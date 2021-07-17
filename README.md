@@ -1,5 +1,5 @@
-### back end for a tournament organizer with swiss paring
+# back end for a tournament organizer with swiss paring
 
-### npm install after download - to compile dependencies
+#### npm install after download - to compile dependencies
 
-### NodeJs + Mongoose + Express + Tournament Organizer
+#### NodeJs + Mongoose + Express + Tournament Organizer
