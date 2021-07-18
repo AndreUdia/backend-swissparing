@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "tournament-organizer": "^1.8.3"
+    "mongoose": "^5.13.3",
+    "tournament-organizer": "^1.8.3",
+    "uuid": "^8.3.2"
   }
 }
